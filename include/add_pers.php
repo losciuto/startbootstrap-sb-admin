@@ -2,7 +2,7 @@
         if (isset($_POST['reg_p'])) {
             $servername = "localhost";
             $username = "root";
-            $password = "1m42s11m0";
+            $password = "";
             $dbname = "pixpresenze";
 
             $conn = new mysqli($servername, $username, $password, $dbname);

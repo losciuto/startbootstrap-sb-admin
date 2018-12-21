@@ -15,5 +15,5 @@ $email = "";
 $errors = array();
 
 // connect to the database
-$db = mysqli_connect('localhost', 'root', '1m42s11m0', 'pixpresenze');
+$db = mysqli_connect('localhost', 'root', '', 'pixpresenze');
 ?>

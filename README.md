@@ -4,7 +4,7 @@ In realtà questo progetto è sia un fork di [Start Bootstrap - SB Admin](https:
 
 # In fase di ri-elaborazione
 
-[!(https://github.com/losciuto/startbootstrap-sb-admin-presenze/blob/master/img/dashboard.png)]
+[![Presenze Preview](https://github.com/losciuto/startbootstrap-sb-admin-presenze/blob/master/img/dashboard.png)](http://www.pixellm.it/presenze/index.php)
 
 Il progetto prevede un back-office per la gestione delle presenze con gli spunti di cui sopra e il dashboard SB Admin modificato opportunamente. 
 Al momento ho tolto le icone social e il campo di ricerca dalla nav-bar; modificato la side-bar, tolto i diagrammi (che reinserirò in futuro con i dati legati alla applicazione). Le "card" sono diventate, di fatto, un menu. Creato un db su MySQL per la gestione delle tabelle. 

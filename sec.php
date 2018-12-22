@@ -8,4 +8,6 @@ if (version_compare(phpversion(), '5.4.0', '<')) {
         session_start();
     }
 }
+if (!isset($_SESSION['id'])) header('location: login.php');
+
 ?>

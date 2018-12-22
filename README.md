@@ -10,7 +10,7 @@ Il progetto prevede un back-office per la gestione delle presenze con gli spunti
 Al momento ho tolto le icone social e il campo di ricerca dalla nav-bar; modificato la side-bar, tolto i diagrammi (che reinserirò in futuro con i dati legati alla applicazione). Le "card" sono diventate, di fatto, un menu. Creato un db su MySQL per la gestione delle tabelle. 
 Lanciando index.php, l'applicazione si accerta che sia stato fatto il login, in assenza, vi ridireziona alla pagina di login. L'assenza di utenti vi obbligherà ad andare alla pagina di registrazione in cui potrete inserire un nuovo utente.
 
-Tutto quello che segue in questo "readme" è ricopiato pari pari dal fork, ma verrà modificato opportunamente non appena mi sarà possibile.
+Tutto quello che segue in questo "readme" è ereditato interamente dal fork, ma verrà modificato opportunamente non appena mi sarà possibile.
 
 [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 

@@ -1,5 +1,7 @@
 # [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/)
 
+In realtà questo progetto è sia un fork di [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/) ed ha preso spunto da un'elaborazione successiva di [Build an Admin Dashboard Template in PHP and Boostrap 4](https://www.cloudways.com/blog/admin-dashboard-template-php-boostrap-4/) proposto da [Pardeep Kumar](https://www.cloudways.com/blog/author/pardeep-kumar/) sia una rielaborazione verticale che ha preso uno spunto da [Admin Dashboard in PHP and MySQL](https://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=3109&lngWId=8)
+
 [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview

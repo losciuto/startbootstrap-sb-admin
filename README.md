@@ -6,6 +6,9 @@ In realtà questo progetto è sia un fork di [Start Bootstrap - SB Admin](https:
 
 Tutto quello che segue è ricopiato pari pari dal fork, ma verrà modificato opportunamente non appena mi sarà possibile.
 
+Il progetto prevede un back-office per la gestione delle presenze con gli spunti di cui sopra e il dashboard SB Admin modificato opportunamente. 
+Al momento ho tolto le icone social e il campo di ricerca dalla nav-bar; modificato la side-bar, tolto i diagrammi (che reinserirò in futuro con i dati legati alla applicazione). Le "card" sono diventate, di fatto, un menu....
+
 [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Preview

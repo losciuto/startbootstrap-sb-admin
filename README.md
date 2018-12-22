@@ -2,12 +2,13 @@
 
 In realtà questo progetto è sia un fork di [Start Bootstrap - SB Admin](https://startbootstrap.com/template-overviews/sb-admin/) ed ha preso spunto da un'elaborazione successiva di [Build an Admin Dashboard Template in PHP and Boostrap 4](https://www.cloudways.com/blog/admin-dashboard-template-php-boostrap-4/) proposto da [Pardeep Kumar](https://www.cloudways.com/blog/author/pardeep-kumar/) sia una rielaborazione verticale che ha preso uno spunto da [Admin Dashboard in PHP and MySQL](https://www.planet-source-code.com/vb/scripts/ShowCode.asp?txtCodeId=3109&lngWId=8). Rigrazio tutti loro, thank you :=).
 
-# In fase di rielaborazione
-
-Tutto quello che segue è ricopiato pari pari dal fork, ma verrà modificato opportunamente non appena mi sarà possibile.
+# In fase di ri-elaborazione
 
 Il progetto prevede un back-office per la gestione delle presenze con gli spunti di cui sopra e il dashboard SB Admin modificato opportunamente. 
-Al momento ho tolto le icone social e il campo di ricerca dalla nav-bar; modificato la side-bar, tolto i diagrammi (che reinserirò in futuro con i dati legati alla applicazione). Le "card" sono diventate, di fatto, un menu....
+Al momento ho tolto le icone social e il campo di ricerca dalla nav-bar; modificato la side-bar, tolto i diagrammi (che reinserirò in futuro con i dati legati alla applicazione). Le "card" sono diventate, di fatto, un menu. Creato un db su MySQL per la gestione delle tabelle. 
+Lanciando index.php, l'applicazione si accerta che sia stato fatto il login, in assenza, vi ridireziona alla pagina di login. L'assenza di utenti vi obbligherà ad andare alla pagina di registrazione in cui potrete inserire un nuovo utente.
+
+Tutto quello che segue in questo "readme" è ricopiato pari pari dal fork, ma verrà modificato opportunamente non appena mi sarà possibile.
 
 [SB Admin](http://startbootstrap.com/template-overviews/sb-admin/) is an open source, admin dashboard template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 

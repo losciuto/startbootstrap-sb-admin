@@ -1,5 +1,5 @@
           <!-- DataTables Example -->
-          <div class="card mb-3">
+          <div class="card mb-3 shadow">
             <div class="card-header">
               <i class="fas fa-table"></i>
              Anagrafica Personale</div>
@@ -38,8 +38,8 @@
                   <?php 
                         include('server.php');
                         $sql = "SELECT * FROM presenze_personale";
-                        $result=mysqli_query($db,$sql);
-                        while ($row = mysqli_fetch_array($result)) {
+                        $results = mysqli_query($db,$sql) or die("Errore: " . $sql . "<br/>" . mysqli_error($db));
+                        while ($row = mysqli_fetch_array($results)) {
                     ?>
                     <tr>
                       <td class="text-right"><?php echo $row['codice_op']; ?></td>

@@ -34,7 +34,7 @@
           <div class="modal-body">Scegli "Logout" qui sotto se sei pronto a ad usicre da questa sessione.</div>
           <div class="modal-footer">
             <button class="btn btn-secondary" type="button" data-dismiss="modal">Annulla</button>
-            <a class="btn btn-primary" href="login.php">Logout</a>
+            <a class="btn btn-primary" href="exit.php">Logout</a>
           </div>
         </div>
       </div>

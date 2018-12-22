@@ -15,8 +15,6 @@
         -->
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="pagesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            <!-- <i class="fas fa-fw fa-table"></i> -->
-            <!-- <i class="fas fa-fw fa-folder-plus"></i> -->
             <i class="fas fa-fw fa-database"></i>
             <span>Inserimento dati</span></a>
           <div class="dropdown-menu" aria-labelledby="pagesDropdown">
@@ -29,7 +27,6 @@
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="pagesDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            <!-- <i class="fas fa-fw fa-folder"></i> -->
             <i class="fas fa-fw fa-file-alt"></i>            
             <span>Pagine</span>
           </a>
